@@ -1,4 +1,4 @@
 # billiards
 smooth native css keyframe animations
 
-[Demo](https://cdn.rawgit.com/shishirarora3/billiards/3ed77eae/billiards/index.html)
+[Demo](https://cdn.rawgit.com/shishirarora3/billiards/03c406cb/index.html)
